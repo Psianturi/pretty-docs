@@ -74,19 +74,12 @@ be easily usable in [GitHub Pages](https://pages.github.com/).
 Activate this theme by adding a new line to your `_config.yml` file:
 
 ```
-remote_theme: leakyabstractions/pretty-docs
+remote_theme: Psianturi/pretty-docs
 ```
 
 Here is an example of a GitHub Pages site using this theme:
 
-- [GitHub Pages Demo source code](https://github.com/LeakyAbstractions/pretty-docs/tree/gh-pages)
-
-### Follow Guillermo Calvo
-
-- [Twitter](https://twitter.com/gcalvo)
-- [Blog](https://leakyabstractions.com/)
-- [Resume](https://guillermo.in/)
-- [Linkedin](https://www.linkedin.com/in/guillermocalvo)
+- [GitHub Pages Demo source code](https://github.com/Psianturi/pretty-docs)
 
 
 ## Color Schemes
